@@ -1,0 +1,34 @@
+#wrapper{
+	background-color: #F3F3EE;
+	border: 1px black solid;
+	box-shadow: 10px 10px 5px #888888;
+	position: relative;
+	margin-left: 1em auto;
+	margin-right: 1em auto;
+	height: auto;
+	height: 100%;
+	padding: 10px;
+	vertical-align: center;
+	width: auto;
+	width: fit-content;
+	width: -moz-fit-content;
+	width: -webkit-fit-content;
+
+}
+
+.pixel{
+	border: 1px gray dotted;
+	height: 16px;
+	width: 16px;
+	float: left;
+	background-color: white;
+	
+}
+
+.clearLeft{
+	clear: left;
+}
+
+#push{
+	clear: both;
+}
